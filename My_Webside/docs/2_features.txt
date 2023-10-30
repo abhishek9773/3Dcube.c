@@ -1,0 +1,28 @@
+# home page 
+    HIGHLITE LITE => "welcome to self-talk developer community.
+    clear and attractive.
+
+
+
+#login page
+    email & password
+
+
+# sign-up page
+    name
+    email (varification module enable)
+    password to times
+    capcha (for human identify)
+
+#project page:-
+    show case your project in the form of gallery form
+
+# contact page
+
+
+# Blog page
+    make a blog post related to related to gidance.
+    like- How to become a salf-talk developer
+          ect.
+# resources page:-
+        share you learning pdf  and project explanation etc.
